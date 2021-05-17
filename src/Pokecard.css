@@ -1,0 +1,18 @@
+.Pokecard {
+    display: inline-block;
+    background-color: rgb(211, 211, 211);
+    border-radius: 10px;
+    margin: 1rem 2rem;
+    padding: 1rem;
+    width: 8rem;
+    text-align: center;
+}
+
+.Pokecard h4, span {
+    display: block;
+}
+
+.Pokecard h4 {
+    color: blue;
+}
+
